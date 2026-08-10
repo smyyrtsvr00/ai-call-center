@@ -1,3 +1,6 @@
+version: v1.0
+sha256: 1a868791daf9f7af0ffe8b6960262c275b9f913641e441a2fd47fcbc6d0e2841
+
 başlık: NORMALİZASYON KURALLARI
 açıklama: >
   AI Call Center Projesi kapsamında geliştirilen konuşma tanıma (ASR) ve
